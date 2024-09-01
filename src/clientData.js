@@ -10,19 +10,19 @@ With my knowledge and experience I provide my clients accurate and complete deta
 
 Customer Service excellence is our Passion!`,
     testimonials: [{"quote": "Working with Kayla Tinney was a game-changer for us. Her deep knowledge of the New York market and personalized approach made finding our dream home effortless. Highly recommended for anyone seeking a top-notch real estate experience.", "author": "John and Emily R."}, {"quote": "Kayla Tinney provided exceptional service from start to finish. The teams professionalism and attention to detail ensured that our property sale was smooth and successful. We could not have asked for a better partner in real estate.", "author": "Michael S."}, {"quote": "The dedication and expertise of Kayla Tinney were evident throughout our home-buying journey. Her ability to understand our needs and navigate the competitive market made the process enjoyable and stress-free. We are thrilled with our new home!", "author": "Sarah and David L."}, {"quote": "Kayla Tinney and Her team are truly outstanding. Their market knowledge, responsiveness, and client-focused approach set them apart. We have bought and sold multiple properties with them, and each experience has been exceptional.", "author": "Jessica and Mark T."}, {"quote": "If you are looking for a real estate agent who goes above and beyond, Kayla Tinney is the one. Her dedication to finding the perfect property and ensuring a smooth transaction is unmatched. We are incredibly satisfied with the service we received.", "author": "Laura K."}],
-    footerTagline: "Your Trusted Partner in  Real Estate.",
+    footerTagline: "Your Trusted Partner in Luxury Real Estate",
     email: "",
     address: "Talladega, Al, USA",
-    phone: "",
+    phone: "256-454-4471",
     footerDescription: `Kayla Tinney Realty is committed to delivering the highest standard of real estate services. Whether you're buying, selling, or investing in luxury properties, we offer unparalleled expertise and a personalized approach to meet your needs.`,
     socialMediaLinks: {
-        facebook: "https://www.facebook.com/ktinney/",
+        facebook: "https://www.facebook.com/KaylaTinneyReal/",
         Instagram: "",
         linkedin: "",
     },
     contactDetails: {
         email: "",
-        phone: "",
+        phone: "256-454-4471",
     },
     website: "",
     dp: "https://scontent.fpnq17-1.fna.fbcdn.net/v/t39.30808-6/417562319_7206530449411266_4149389413086778424_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=zPV2azcXKV0Q7kNvgEeBOPu&_nc_ht=scontent.fpnq17-1.fna&oh=00_AYBhlBH8EHnHVvcYuoMoPh_SymGvtOBBrOOTwznQb6-78g&oe=66D7AFD8" // Agent image URL
