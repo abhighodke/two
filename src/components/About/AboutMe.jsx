@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import topImage from '../../assets/mathias-reding-cmyDyDa6Wfk-unsplash.jpg'
 import clientData from '../../clientData'; // Import the client data
 
 const AboutMe = () => {
@@ -11,7 +12,7 @@ const AboutMe = () => {
     <section className="w-full">
       {/* Top Image Section */}
       <header className="relative h-64 mb-12">
-        <img src={clientData.topImageUrl} alt="Blog Header" className="w-full h-full object-cover" />
+        <img src= {topImage} alt="Blog Header" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <div className="text-center text-white">
             <h1 className="text-5xl">About</h1>
